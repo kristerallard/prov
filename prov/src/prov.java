@@ -22,18 +22,14 @@ public class prov {
 			ray[i]=in.nextInt();
 		in.close();
 		
-		int max=0;
-		
-		for(int k = 0; k<ray.length; k++){
-			 if (ray[k] > max)
-			 max = ray[k];	
+			
 		prove p = new prove();
 		System.out.println(p.highestNumber(ray));
 			 
 	}
-		System.out.println(max);
+		
 	
-}}
+}
 
 	
 	
