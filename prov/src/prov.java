@@ -26,7 +26,7 @@ public class prov {
 		prove p = new prove();
 		System.out.println(p.highestNumber(ray));
 		System.out.println(p.highestNumber(ray));
-	
+		System.out.println("kuuk");
 	}
 		
 	
